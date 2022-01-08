@@ -18,7 +18,7 @@
 
 ## Notes
 
-Release and Debug versions available. HoRNDIS kext inlcuded for Android USB tethering support.
+Release and Debug versions available. HoRNDIS kext included for Android USB tethering support.
 
 Wireless Mouse Lag Fix:
 -> System preferences -> Security and privacy -> Privacy -> uncheck "Enable location service"
