@@ -1,0 +1,1 @@
+# h410m-e-10100f-rx5700xt-opencore-hackintosh
