@@ -1,4 +1,4 @@
-# ASUS H410M-E PRIME i3 10100F SAPPHIRE RX5700XT Hackintosh
+# ASUS H410M-E PRIME i3 10100F SAPPHIRE RX5600XT Hackintosh
 
 #### OpenCore 0.6.5 (DEBUG) / 0.7.6 (RELEASE) | macOS Big Sur 11.1
 
@@ -6,7 +6,7 @@
 
 - ASUS H410-E PRIME
 - Intel i3 10100F (Comet Lake) -_No iGPU_-
-- Sapphire RX5700XT 8GB (Navi)
+- Sapphire RX5600XT 8GB (Navi)
 - HyperX Fury DDR4 16GB
 - 256GB TEAMGROUP MP33 M.2 NVME SSD
 
